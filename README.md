@@ -3,4 +3,4 @@ My first github repo
 Hello Odin!
 
 Hello World, hello oddin
-That's how's going
+That's how's goin
